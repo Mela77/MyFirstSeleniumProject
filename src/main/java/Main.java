@@ -7,12 +7,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        login();
-//        register();
-//        search();
-//        addToCart();
-//        removeFromCart();
-//        wishList();
+        login();
+        register();
+        search();
+        addToCart();
+        removeFromCart();
+        wishList();
 
 
     }

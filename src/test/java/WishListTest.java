@@ -62,8 +62,7 @@ public class WishListTest {
         driver.findElement(By.cssSelector("#swatch18 > span.swatch-label > img")).click();
         driver.findElement(By.cssSelector("#swatch79 > span.swatch-label")).click();
         driver.findElement(By.cssSelector("#product_addtocart_form > div.product-shop > div.product-options-bottom > div.add-to-cart > div.add-to-cart-buttons > button > span > span")).click();
-
-//        driver.quit();
+        driver.quit();
     }
 
 }
